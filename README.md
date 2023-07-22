@@ -35,3 +35,6 @@ While running, the script displays two windows:
 2. 'extractedPose': This window shows the detected pose landmarks and connections drawn on a blank canvas.
 
 To quit the program, press 'q'.
+
+### demo
+![demo](https://raw.githubusercontent.com/morteza-sharifi1/Pose-Detection/2.png)
