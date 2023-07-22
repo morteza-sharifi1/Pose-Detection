@@ -37,4 +37,4 @@ While running, the script displays two windows:
 To quit the program, press 'q'.
 
 ### demo
-![demo](https://raw.githubusercontent.com/morteza-sharifi1/Pose-Detection/main/2.png)
+![demo](https://raw.githubusercontent.com/morteza-sharifi1/Pose-Detection/main/2.PNG)
